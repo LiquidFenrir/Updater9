@@ -1,5 +1,6 @@
 # Updater9
-Updater in lpp-3ds for d0k3's 3ds applications
+Updater in lpp-3ds for d0k3's 3ds applications  
+Officially endorsed by d0k3
 
 ## Building
 To build, you will need the lpp-3ds.elf of your choice (release, nightly, your own...), in addition to makerom, bannertool, 3dstool, and 3dsxtool, then run the build.bat  
