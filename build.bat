@@ -1,6 +1,6 @@
 @echo off
 
-set name=d0k3_updater
+set name=Updater9
 
 set cia_file="%name%.cia"
 set hbl_file="%name%.3dsx"

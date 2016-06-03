@@ -1,6 +1,6 @@
 local white = Color.new(255,255,255)
 local url = "http://d0k3.secretalgorithm.com/latest/"
-local config_path = "/homebrew/d0k3-updater/"
+local config_path = "/homebrew/Updater9/"
 local config = dofile(config_path.."config.cfg")
 local payloads = config["payloads"]
 local path = config["path"]
