@@ -1,3 +1,6 @@
+# /!\ Not maintained anymore /!\
+I would suggest using [MultiUpdater](https://github.com/LiquidFenrir/MultiUpdater) instead.
+
 # Updater9
 Updater in lpp-3ds for d0k3's 3ds applications  
 Officially endorsed by d0k3
